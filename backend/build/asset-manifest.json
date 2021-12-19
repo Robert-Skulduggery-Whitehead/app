@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b684193.chunk.css",
+    "main.js": "/static/js/main.30db2aff.chunk.js",
+    "main.js.map": "/static/js/main.30db2aff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d89c4909.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d89c4909.js.map",
+    "static/js/2.ed768e36.chunk.js": "/static/js/2.ed768e36.chunk.js",
+    "static/js/2.ed768e36.chunk.js.map": "/static/js/2.ed768e36.chunk.js.map",
+    "static/js/3.9fad26e9.chunk.js": "/static/js/3.9fad26e9.chunk.js",
+    "static/js/3.9fad26e9.chunk.js.map": "/static/js/3.9fad26e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1b684193.chunk.css.map": "/static/css/main.1b684193.chunk.css.map",
+    "static/js/2.ed768e36.chunk.js.LICENSE.txt": "/static/js/2.ed768e36.chunk.js.LICENSE.txt",
+    "static/media/matchbar.css": "/static/media/ConcertOne-Regular.a116a857.ttf",
+    "static/media/index.css": "/static/media/Montserrat-ThinItalic.3096cb47.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89c4909.js",
+    "static/js/2.ed768e36.chunk.js",
+    "static/css/main.1b684193.chunk.css",
+    "static/js/main.30db2aff.chunk.js"
+  ]
+}
