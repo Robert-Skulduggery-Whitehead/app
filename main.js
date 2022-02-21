@@ -40,6 +40,9 @@ function createHud() {
   });
 
   hudWindow.setAlwaysOnTop(true, "screen-saver");
+  setInterval(function () {
+    hudWindow.setAlwaysOnTop(true, "screen-saver");
+  }, 1);
   hudWindow.setIgnoreMouseEvents(true);
 
   hudWindow.loadURL("http://localhost:9000/hud");
